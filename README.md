@@ -21,7 +21,7 @@ To run locally use ```npm i``` and after that ```npm run develop```
 
 ## Usage
    
-    ![alt text](/client/public/demo.gif)
+  ![alt text](/client/public/demo.gif)
 
 ## Credits
 
