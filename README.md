@@ -20,6 +20,7 @@ A book search app made using the MERN stack. Users can make an account and login
 To run locally use ```npm i``` and after that ```npm run develop```
 
 ## Usage
+link to live site https://book-search-app-jmares14.herokuapp.com/
    
   ![alt text](/client/public/demo.gif)
 
