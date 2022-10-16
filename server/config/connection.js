@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-mongoose.connect(process.env.MONGODB_URI || 'https://data.mongodb-api.com/app/data-dnris/endpoint/data/v1', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/book-search-engine', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
   useCreateIndex: true,
